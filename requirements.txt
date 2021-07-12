@@ -5,4 +5,4 @@ pandas==1.2.2
 streamlit==0.84.0
 scikit_image==0.18.2
 Pillow==8.3.1
-
+tensorflow
