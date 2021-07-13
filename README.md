@@ -6,4 +6,7 @@ So, link is provided below :
 Link for dataset - https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
 Streamlit app :
+![](images/brain_image1.jpeg)
+![](images/brain_image2.jpeg)
+![](images/brain_image3.jpeg)
 
